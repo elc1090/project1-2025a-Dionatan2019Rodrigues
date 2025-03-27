@@ -14,65 +14,65 @@
 
 Acesso: Substitua este texto pela URL para acesso ao site publicado
 
-### Demandas
+#### Desenvolvedor(a)
 
-(x)Mudar o lado do menu do lado esquerdo para o direito na versão mobile;
-(x)e o login do lado esquerdo para o direito. 
-(x)Ou seja, inverter.
+Dionatan Eduardo Correa Rodrigues - Ciência da Computação
 
-(x)Quero deixar mais aparente para meus pseudo clientes o login.
+#### Cliente
+
+Thainara Medeiros Couto 
+
+#### Site/app original
+
+Site de e-commerce da Amazon
+
+##### Link
+
+[Amazon.com.br](https://reserva.ink/hickzeraa)
+
+##### Descrição
+
+O e-commerce da Amazon é uma plataforma online gigante que oferece uma variedade incrível de produtos, desde livros e eletrônicos até roupas, alimentos e itens para casa. A loja virtual é conhecida pela sua vasta seleção, preços competitivos e um sistema de busca eficiente que facilita encontrar o que você procura. Além disso, a Amazon oferece opções de entrega rápida e um programa de assinatura chamado Amazon Prime, que proporciona benefícios como frete grátis e acesso a promoções exclusivas.
+
+#### Demanda do(a) cliente
+
+Inverter de lado os botões de menu e login na versão mobile;
+Deixar mais aparente o login.
+
+#### Desenvolvimento
+
+(\*)Substitua este texto por uma descrição do processo de desenvolvimento, explicando suas escolhas para o remake e etapas do trabalho (por exemplo, como foi coletado o conteúdo, como você lidou com as demandas, etc.)
+
+#### Tecnologias
+
+- **HTML**: Estruturação do site.
+- **CSS**: Esilizações pontuais do site.
+- **Bootstrap**: Utilizado para uso de componentes já pré desenvolvido e estilisados.
+- **FontAwesome**: Ícones estilizados e de fácil implementação.
+- **Git**: Utilizado no versionamento de todo projeto.
+
+#### Ambiente de desenvolvimento
+
+- **VS Code + extenções**: IDE utilizada no desenvolvimento com auxílio de algumas extensões.
+- **(extensão)Live Server**: Tem a funcionalidade de gerar um servidor local e auto recarregável.
+- **(extensão)Prettier Code formatter**: Formatador de código fornecendo um padrão estabelecido.
+- **(extensão)Gitmoji**: Auxilia na padronização de commits.
+- **(extensão)Auto Rename tag**: Renomeia a tag de fechamento HTML simultaneamente a escrita da tag de abertura.
+
+#### Referências e créditos
+
+(\*)Substitua este trecho por uma lista bem detalhada de todo material que você consultou para ajudar no projeto, por exemplo: URL de templates usados, URL de icon kits usados, créditos para colegas que colaboraram, geradores de código (incluindo alguns prompts usados para o ChatGPT, se for o caso)
+
+- ...
+- ...
+
 
 ### IA
 
 Uso do gemini para fazer o setup do git hub
 
-#### Desenvolvedor(a)
+Uso do gemini para tirar dúvidas referentes ao bootstrap
 
-Substitua este texto pela sua identificação: nome e curso
-
-#### Cliente
-
-Substitua este texto pela identificação do cliente
-
-#### Site/app original
-
-##### Link
-
-Substitua este texto pela URL do site/app escolhido
-
-##### Descrição
-
-Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
-
-#### Demanda do(a) cliente
-
-Substitua este texto pela demanda do(a) cliente
-
-#### Desenvolvimento
-
-Substitua este texto por uma descrição do processo de desenvolvimento, explicando suas escolhas para o remake e etapas do trabalho (por exemplo, como foi coletado o conteúdo, como você lidou com as demandas, etc.)
-
-#### Tecnologias
-
-Substitua este trecho por uma lista detalhada de tecnologias usadas (tanto as básicas, como HTML e CSS, como as mais específicas, por exemplo Tailwind, etc.):
-
-- ...
-- ...
--
-
-#### Ambiente de desenvolvimento
-
-Substitua este trecho por uma lista detalhada dos ambientes/ferramentas de desenvolvimento que você usou (por exemplo, VS Code + alguma extensão, etc.)
-
-- ...
-- ...
-
-#### Referências e créditos
-
-Substitua este trecho por uma lista bem detalhada de todo material que você consultou para ajudar no projeto, por exemplo: URL de templates usados, URL de icon kits usados, créditos para colegas que colaboraram, geradores de código (incluindo alguns prompts usados para o ChatGPT, se for o caso)
-
-- ...
-- ...
 
 ---
 

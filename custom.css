@@ -5,3 +5,35 @@
 a {
   color: #eeeeee;
 }
+
+.container-geral {
+  position: relative;
+}
+.card-container-primary {
+  position: absolute;
+  top: 70%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+}
+.card-container-second {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+}
+.card-container-third {
+  position: absolute;
+  top: 70%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+}
+
+.bg-custom {
+  background-color: rgb(241, 241, 241);
+}
+.bg-section {
+  background-color: white;
+}
