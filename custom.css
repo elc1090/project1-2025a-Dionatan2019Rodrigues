@@ -37,3 +37,7 @@ a {
 .bg-section {
   background-color: white;
 }
+
+.border-rounded {
+  border-radius: 30px;
+}
